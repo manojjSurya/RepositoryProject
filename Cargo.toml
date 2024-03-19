@@ -1,0 +1,18 @@
+[package]
+name = "loss_data"
+version = "1.0.4358"
+authors = ["Manoj Joshi <manoj.j@surya-soft.com>"]
+
+[dependencies]
+clap = "2.31.2"
+slog-term = "2.4.0"
+slog-async = "2.3.0"
+serde_json = { version = "1.0", default-features = false, features = ["alloc"] }
+serde = "1.0.104"
+serde_derive = "1.0.104"
+slog = { version = "2.2.3", features = ["max_level_trace", "release_max_level_trace"] }
+rbdate = { path="/home/surya71/Projects/Rust_Backup/package/SuperDB-Batch-1/hdfc/libraries/RBDate"}
+sdb_io = { path= "/home/surya71/Projects/Rust_Backup/package/SuperDB-Batch-1/hdfc/libraries/sdb_io" }
+health_report = { path = "../../../hdfc/libraries/health_report" }
+calamine="0.15.3"
+chrono="0.4"

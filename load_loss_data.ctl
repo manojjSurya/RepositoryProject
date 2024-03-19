@@ -1,0 +1,11 @@
+LOAD DATA
+INFILE '*' "STR'\r\n'"
+APPEND
+INTO TABLE " OPRSTALCData" FIELDS TERMINATED BY '|'
+(
+"AsOnate"
+"CCYID"
+"OutstandingBALCCY"
+"OutstandingBALHCY"
+)
+

@@ -1,0 +1,14 @@
+Mar 19 09:25:02.121 INFO log_file: test-bed/log.txt
+Mar 19 09:25:02.121 INFO diagnostics_file: test-bed/diagnostics.txt
+Mar 19 09:25:02.122 INFO log_level: trace
+Mar 19 09:25:02.122 INFO The stg.non_sec_exposure_fn is:LossData_Logic.xlsx
+Mar 19 09:25:02.122 INFO sheet_name is:1001
+Mar 19 09:25:02.122 INFO sheet_name is:2001
+Mar 19 09:25:02.122 INFO sheet_name is:3001
+Mar 19 09:25:02.122 INFO sheet_name is:4001
+Mar 19 09:25:02.122 INFO sheet_name is:5001
+Mar 19 09:25:02.122 INFO sheet_name is:6001
+Mar 19 09:25:02.122 INFO sheet_name is:2023-07-23
+Mar 19 09:25:02.122 INFO output_file_path:test-bed/Output.txt
+Mar 19 09:25:02.122 INFO sheet_name is:Input File
+Mar 19 09:25:02.269 INFO Total time taken for execution: 148.709109ms
